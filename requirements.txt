@@ -1,0 +1,16 @@
+Flask==2.0.2
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+Werkzeug==2.0.2
+azure-cognitiveservices-speech==1.19.0
+certifi==2021.10.8
+charset-normalizer==2.0.10
+click==8.0.3
+colorama==0.4.4
+idna==3.3
+itsdangerous==2.0.1
+pip==21.1.2
+requests==2.27.1
+setuptools==57.0.0
+urllib3==1.26.8
+wheel==0.36.2
